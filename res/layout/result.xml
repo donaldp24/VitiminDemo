@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:id="@+id/layout_result"
+				android:orientation="vertical"
+				android:layout_width="800px"
+				android:layout_height="480px"
+				android:background="@android:color/white"
+		>
+
+	<ImageView
+			android:layout_marginLeft="203px"
+			android:layout_marginTop="27px"
+			android:layout_width="398px"
+			android:layout_height="68px"
+			android:background="@drawable/result_title"
+			/>
+	<ImageView
+			android:layout_marginLeft="20px"
+			android:layout_marginTop="51px"
+			android:layout_width="149px"
+			android:layout_height="118px"
+			android:background="@drawable/result_authmark"
+			/>
+	<ImageView
+			android:id="@+id/img_resultgood"
+			android:layout_marginLeft="160px"
+			android:layout_marginTop="102px"
+			android:layout_width="145px"
+			android:layout_height="287px"
+			android:background="@drawable/result_good"
+			/>
+	<ImageView
+			android:id="@+id/img_resultgood_reflect"
+			android:layout_marginLeft="160px"
+			android:layout_marginTop="392px"
+			android:layout_width="145px"
+			android:layout_height="64px"
+			android:background="@drawable/result_good_reflect"
+			/>
+
+	<ImageView
+			android:id="@+id/img_couponexp"
+			android:layout_marginLeft="387px"
+			android:layout_marginTop="122px"
+			android:layout_width="340px"
+			android:layout_height="41px"
+			android:background="@drawable/result_couponexp"
+			/>
+
+	<ImageView
+			android:id="@+id/img_goodexp"
+			android:layout_marginLeft="377px"
+			android:layout_marginTop="290px"
+			android:layout_width="372px"
+			android:layout_height="116px"
+			android:background="@drawable/result_exp"
+			/>
+
+	<Button
+			android:id="@+id/btn_coupon"
+			android:layout_marginLeft="450px"
+			android:layout_marginTop="177px"
+			android:layout_width="214px"
+			android:layout_height="81px"
+			android:background="@drawable/result_btn_coupon"
+			/>
+
+	<Button
+			android:id="@+id/btn_back"
+			android:layout_marginLeft="0px"
+			android:layout_marginTop="400px"
+			android:layout_width="164px"
+			android:layout_height="80px"
+			android:background="@drawable/common_btn_back"
+			/>
+</RelativeLayout>

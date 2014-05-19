@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:id="@+id/layout_main"
+				android:orientation="vertical"
+				android:layout_width="800px"
+				android:layout_height="480px"
+				android:background="@drawable/common_background"
+		>
+	<ImageView
+			android:layout_marginLeft="166px"
+			android:layout_marginTop="26px"
+			android:layout_width="436px"
+			android:layout_height="68px"
+			android:background="@drawable/first_title"
+			/>
+
+	<android.support.v4.view.ViewPager
+			android:id="@+id/viewpager_cards"
+			android:layout_marginLeft="100px"
+			android:layout_marginTop="120px"
+			android:layout_width="600px"
+			android:layout_height="300px" android:layout_alignParentTop="true" android:layout_alignParentLeft="true">
+	</android.support.v4.view.ViewPager>
+
+	<ImageView
+			android:id="@+id/img_leftarrow"
+			android:layout_marginLeft="0px"
+			android:layout_marginTop="310px"
+			android:layout_width="110px"
+			android:layout_height="134px"
+			android:background="@drawable/common_leftarrow"
+			android:visibility="invisible"
+			android:alpha="0.5"
+			/>
+
+	<ImageView
+			android:id="@+id/img_rightarrow"
+			android:layout_marginLeft="690px"
+			android:layout_marginTop="310px"
+			android:layout_width="110px"
+			android:layout_height="134px"
+			android:background="@drawable/common_rightarrow"
+			android:alpha="0.5"
+			/>
+
+</RelativeLayout>
+
