@@ -2,10 +2,18 @@
 <resources>
 	<string name="app_name">VitiminDemo</string>
 
+	<!-- for serial -->
 	<string name="error_configuration">Please configure your serial port first.</string>
-	<string name="error_security">You do not have read/write permission to the serial
-		port.</string>
-	<string name="error_unknown">The serial port can not be opened for an unknown
-		reason.</string>
+	<string name="error_security">You do not have read/write permission to the serial port.</string>
+	<string name="error_unknown">The serial port can not be opened for an unknown reason.</string>
+
+	<!-- -->
+	<string name="server_handler">Server Management</string>
+	<string name="server_online">Start Server</string>
+	<string name="server_kill">Kill Server</string>
+	<string name="install_bin">Installing binaries ..</string>
+	<string name="bin_installed">Binaries successfully Installe</string>
+	<string name="bin_hint">Binaries not found Please click on More >> Install Binaries to Install Lighttpd, PHP, mySQL</string>
+	<string name="bin_error">Unable to install binaries</string>
 
 </resources>

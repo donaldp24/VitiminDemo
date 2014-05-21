@@ -47,62 +47,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1bb8e13-b33c-4804-bbf0-1814e3a49275" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/android-support-v4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/armeabi/libserial_port.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libserial_port.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/x86/libserial_port.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jni/Android.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/AppPreferences.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseFormulaActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BlankActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CouponActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hidusb/Hidusb.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResolutionSet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultArranger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/SelectionActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jni/SerialPort.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/android_serialport_api/SerialPort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/android_serialport_api/SerialPortFinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/TransformManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hidusb/UsbHidCmd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hidusb/UsbManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/VideoActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/VitiminDemo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/alpha.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/coupon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/fade.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/frame_trans_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/frame_trans_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/hold.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/imageview_card.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/left_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/left_in_alpha.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/left_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/left_out_alpha.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/result.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/right_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/right_in_alpha.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/right_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/right_out_alpha.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/rotate.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/scale_alpha.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/selection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_in_from_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_in_from_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_out_to_bottom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_out_to_top.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/trans_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/trans_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/video.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/video_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/video_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/commons-lite-1.14.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/coupon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/data.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/Utils/ConfParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/Utils/CsrActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/Utils/ExitApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/ServerService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/ServerUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/Utils/ShellOutputFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/Utils/StartCsrBroadcastReceiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/commons_lite_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/lighttpd.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/mysql.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/php.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/AppPreferences.java" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/AppPreferences.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseActivity.java" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VitiminDemo.iml" afterPath="$PROJECT_DIR$/VitiminDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="VitiminDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -166,13 +134,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="ScanMediaActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="17" selection-start="1152" selection-end="1152" vertical-scroll-proportion="-2.28" vertical-offset="570" max-vertical-offset="1007">
+            <state line="371" column="45" selection-start="12464" selection-end="12464" vertical-scroll-proportion="0.0" vertical-offset="4155" max-vertical-offset="6764">
+              <folding>
+                <element signature="e#12017#12046#0" expanded="true" />
+                <element signature="e#12106#12139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerUtils.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/ServerUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="43" selection-start="2217" selection-end="2217" vertical-scroll-proportion="0.47969052" vertical-offset="1025" max-vertical-offset="8246">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="12" selection-start="409" selection-end="409" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="475">
               <folding />
             </state>
           </provider>
@@ -181,101 +167,34 @@
       <file leaf-file-name="CommonData.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="44" selection-start="2017" selection-end="2017" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="3116">
+            <state line="13" column="45" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="3154">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <file leaf-file-name="AppPreferences.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/AppPreferences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="42" selection-start="2081" selection-end="2081" vertical-scroll-proportion="0.0" vertical-offset="581" max-vertical-offset="1254">
-              <folding>
-                <element signature="e#285#303#0" expanded="true" />
-                <element signature="e#450#468#0" expanded="true" />
-                <element signature="e#919#937#0" expanded="true" />
-                <element signature="e#1216#1234#0" expanded="true" />
-                <element signature="e#1517#1535#0" expanded="true" />
-                <element signature="e#1815#1833#0" expanded="true" />
-                <element signature="e#2113#2131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ScanMediaActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="100" column="21" selection-start="4093" selection-end="4093" vertical-scroll-proportion="-19.68" vertical-offset="1161" max-vertical-offset="3287">
+            <state line="35" column="2" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="931">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelectionActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/SelectionActivity.java">
+      <file leaf-file-name="BaseActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="68" selection-start="3155" selection-end="3172" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1387">
-              <folding>
-                <element signature="e#1066#1233#0" expanded="true" />
-                <element signature="e#1222#1223#0" expanded="true" />
-                <element signature="e#1678#1846#0" expanded="true" />
-                <element signature="e#1835#1836#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="result.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/result.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="39" selection-start="1785" selection-end="1785" vertical-scroll-proportion="-7.22" vertical-offset="798" max-vertical-offset="1539">
+            <state line="17" column="13" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2299">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResultActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultActivity.java">
+      <file leaf-file-name="ShellOutputFormatter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/Utils/ShellOutputFormatter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="41" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="1026">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CouponActivity.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CouponActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="40" selection-start="389" selection-end="389" vertical-scroll-proportion="0.26499033" vertical-offset="53" max-vertical-offset="570">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coupon.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/coupon.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="46" selection-start="135" selection-end="148" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="494">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selection.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/selection.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="4" selection-start="540" selection-end="768" vertical-scroll-proportion="-2.96" vertical-offset="156" max-vertical-offset="1520">
+            <state line="10" column="13" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
               <folding />
             </state>
           </provider>
@@ -296,17 +215,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/Application.java" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultInfo.java" />
-        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/AppPreferences.java" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/VideoActivity.java" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/TransformManager.java" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResolutionSet.java" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BlankActivity.java" />
-        <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultArranger.java" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java" />
-        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/selection.xml" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/SelectionActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/result.xml" />
@@ -314,6 +228,14 @@
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultActivity.java" />
         <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CouponActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/Utils/ExitApplication.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/Utils/ShellOutputFormatter.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/AppPreferences.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/ServerUtils.java" />
       </list>
     </option>
   </component>
@@ -344,15 +266,13 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -371,118 +291,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VitiminDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jni" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -497,18 +309,18 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/android-support-v4.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/commons-lite-1.14.jar!/" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.general.mediaplayer.VitiminDemo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Elance\works\33_vitamin\VitiminDemo\res\layout" />
-      <recent name="D:\Elance\works\33_vitamin\VitiminDemo\src\com\general\mediaplayer\VitiminDemo" />
-      <recent name="D:\Elance\works\33_vitamin\VitiminDemo\src" />
-      <recent name="D:\Elance\works\33_vitamin\VitiminDemo" />
       <recent name="D:\Elance\works\33_vitamin\VitiminDemo\libs" />
+      <recent name="D:\Elance\works\33_vitamin\VitiminDemo\src\com\general\mediaplayer\VitiminDemo" />
+      <recent name="D:\Elance\works\33_vitamin\VitiminDemo\src\com\general\mediaplayer" />
+      <recent name="D:\Elance\works\33_vitamin\VitiminDemo\assets" />
+      <recent name="D:\Elance\works\33_vitamin\VitiminDemo\res\layout" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.VitiminDemo">
@@ -764,44 +576,45 @@
       <created>1400448602999</created>
       <updated>1400448602999</updated>
       <workItem from="1400448608628" duration="5767000" />
+      <workItem from="1400554749095" duration="2619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5767000" />
+    <option name="totallyTimeSpent" value="8386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="722" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6099291" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6099291" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -826,18 +639,99 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jni/Android.mk">
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608">
+        <state line="36" column="17" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1007">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/anim/fade.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.18518518" vertical-offset="0" max-vertical-offset="513">
+        <state line="57" column="44" selection-start="2017" selection-end="2017" vertical-scroll-proportion="0.0" vertical-offset="1083" max-vertical-offset="3116">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="42" selection-start="2081" selection-end="2081" vertical-scroll-proportion="0.0" vertical-offset="581" max-vertical-offset="1254">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="21" selection-start="4093" selection-end="4093" vertical-scroll-proportion="0.0" vertical-offset="1900" max-vertical-offset="3591">
+          <folding>
+            <element signature="e#12017#12046#0" expanded="true" />
+            <element signature="e#12106#12139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/SelectionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="68" selection-start="3155" selection-end="3172" vertical-scroll-proportion="0.0" vertical-offset="1729" max-vertical-offset="1900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/result.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="39" selection-start="1785" selection-end="1785" vertical-scroll-proportion="0.0" vertical-offset="1159" max-vertical-offset="1539">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="41" selection-start="1125" selection-end="1125" vertical-scroll-proportion="0.0" vertical-offset="589" max-vertical-offset="1197">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CouponActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/coupon.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="46" selection-start="135" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/selection.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="4" selection-start="540" selection-end="768" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni/Android.mk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/anim/fade.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.18518518" vertical-offset="0" max-vertical-offset="513" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/android_serialport_api/SerialPort.java">
@@ -857,13 +751,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="5" selection-start="609" selection-end="609" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="703">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/AppPreferences.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="836">
           <folding />
         </state>
       </provider>
@@ -906,13 +793,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="641" selection-end="641" vertical-scroll-proportion="0.0" vertical-offset="208" max-vertical-offset="2299">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/imageview_card.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -930,13 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ResultArranger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="27" column="68" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="243" max-vertical-offset="760">
@@ -949,21 +822,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="17" selection-start="1152" selection-end="1152" vertical-scroll-proportion="-2.28" vertical-offset="570" max-vertical-offset="1007">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="44" selection-start="2017" selection-end="2017" vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="3116">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="100" column="21" selection-start="4093" selection-end="4093" vertical-scroll-proportion="-19.68" vertical-offset="1161" max-vertical-offset="3287">
+        <state line="36" column="17" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="1007">
           <folding />
         </state>
       </provider>
@@ -973,7 +832,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="39" selection-start="1785" selection-end="1785" vertical-scroll-proportion="-7.22" vertical-offset="798" max-vertical-offset="1539">
+        <state line="61" column="39" selection-start="1785" selection-end="1785" vertical-scroll-proportion="0.0" vertical-offset="1159" max-vertical-offset="1539">
           <folding />
         </state>
       </provider>
@@ -983,7 +842,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="4" selection-start="540" selection-end="768" vertical-scroll-proportion="-2.96" vertical-offset="156" max-vertical-offset="1520">
+        <state line="16" column="4" selection-start="540" selection-end="768" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="1520">
           <folding />
         </state>
       </provider>
@@ -991,27 +850,14 @@
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="42" selection-start="2081" selection-end="2081" vertical-scroll-proportion="0.0" vertical-offset="581" max-vertical-offset="1254">
-          <folding>
-            <element signature="e#285#303#0" expanded="true" />
-            <element signature="e#450#468#0" expanded="true" />
-            <element signature="e#919#937#0" expanded="true" />
-            <element signature="e#1216#1234#0" expanded="true" />
-            <element signature="e#1517#1535#0" expanded="true" />
-            <element signature="e#1815#1833#0" expanded="true" />
-            <element signature="e#2113#2131#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/SelectionActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="91" column="68" selection-start="3155" selection-end="3172" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="1387">
-          <folding>
-            <element signature="e#1066#1233#0" expanded="true" />
-            <element signature="e#1222#1223#0" expanded="true" />
-            <element signature="e#1678#1846#0" expanded="true" />
-            <element signature="e#1835#1836#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,14 +873,99 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="46" selection-start="135" selection-end="148" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="494">
+        <state line="2" column="46" selection-start="135" selection-end="148" vertical-scroll-proportion="0.06557377" vertical-offset="6" max-vertical-offset="494">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CouponActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="389" selection-end="389" vertical-scroll-proportion="0.26499033" vertical-offset="53" max-vertical-offset="570">
+        <state line="15" column="22" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0" vertical-offset="9" max-vertical-offset="570">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1026">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="367" selection-end="373" vertical-scroll-proportion="-7.464286" vertical-offset="0" max-vertical-offset="418">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/coupon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/Utils/CsrActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="212" selection-end="212" vertical-scroll-proportion="0.31784385" vertical-offset="0" max-vertical-offset="950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/Utils/ExitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="13" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="76" max-vertical-offset="1026">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/Utils/ShellOutputFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="2299">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/CommonData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="45" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="3154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/AppPreferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="2" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="931">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="12" selection-start="409" selection-end="409" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/ScanMediaActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="371" column="45" selection-start="12464" selection-end="12464" vertical-scroll-proportion="0.0" vertical-offset="4155" max-vertical-offset="6764">
+          <folding>
+            <element signature="e#12017#12046#0" expanded="true" />
+            <element signature="e#12106#12139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/VitiminDemo/DroidPHP/ServerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="43" selection-start="2217" selection-end="2217" vertical-scroll-proportion="0.47969052" vertical-offset="1025" max-vertical-offset="8246">
           <folding />
         </state>
       </provider>
@@ -1115,7 +1046,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>android-support-v4</last-edited>
+          <last-edited>commons-lite-1.14</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

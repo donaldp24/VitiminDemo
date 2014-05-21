@@ -3,6 +3,7 @@ package com.general.mediaplayer.VitiminDemo;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import com.general.mediaplayer.Utils.CsrActivity;
 
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
@@ -14,7 +15,7 @@ import java.util.concurrent.TimeUnit;
  * Time: 11:19 PM
  * To change this template use File | Settings | File Templates.
  */
-public class BaseActivity extends Activity {
+public class BaseActivity extends CsrActivity {
 
     protected Date lastInteractionTime = new Date();
     //private Handler myHandler;

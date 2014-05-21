@@ -13,12 +13,9 @@ import android.content.SharedPreferences;
  */
 public class AppPreferences {
     // define keys for preferences
-    private static final String APP_SHARED_PREFS = "FindFormula";
+    private static final String APP_SHARED_PREFS = "VitiminDemo";
 
-    private static final String KEY_BASIC = "Basic";
-    private static final String KEY_BREED = "Breed";
-    private static final String KEY_LIFESTYLE = "Lifestyle";
-    private static final String KEY_FOOD = "Food";
+    private static final String KEY_SERVERSTARTED = "ServerStarted";
 
     private SharedPreferences shared_preferences;
     private SharedPreferences.Editor shared_preferences_editor;
@@ -37,4 +34,12 @@ public class AppPreferences {
         shared_preferences_editor.commit();
     }
 */
+public void setServerStarted(boolean isStarted) {
+    shared_preferences_editor.putBoolean(KEY_SERVERSTARTED, isStarted);
+    shared_preferences_editor.commit();
+}
+
+    public boolean isServerStarted() {
+        return shared_preferences.getBoolean(KEY_SERVERSTARTED, false);
+    }
 }

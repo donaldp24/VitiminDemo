@@ -11,6 +11,8 @@ import android.graphics.Rect;
  */
 public class CommonData {
 
+    public static final int START_SERVER = 1;
+
     // no taps for a long time, type of action
     public static final int ACTION_NONE = -1;
     public static final int ACTION_VIDEOPLAY = 0;
