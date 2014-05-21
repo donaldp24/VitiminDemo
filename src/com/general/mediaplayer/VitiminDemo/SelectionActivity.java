@@ -87,7 +87,7 @@ public class SelectionActivity extends BaseActivity {
     private void gotoResult(int key)
     {
         Intent intent = new Intent(SelectionActivity.this, ResultActivity.class);
-        intent.putExtra(CommonData.PARAM_KEY, key);
+        intent.putExtra(CommonData.PARAM_SUBID, key);
         startActivity(intent);
         overridePendingTransition(TransformManager.GetContinueInAnim(), TransformManager.GetContinueOutAnim());
         finish();

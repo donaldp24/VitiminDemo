@@ -42,12 +42,12 @@ public class CommonData {
     public static final int transformAnimation = TRANSFORM_ALPHA_SLIDE; //trans_0
 
     // these are subids for lights of every kind-------------------------------------------------------
-   public static final int SUBID_HERBAL = 0;
-    public static final int SUBID_MINERALS = 1;
-    public static final int SUBID_VITIMIN = 2;
-    public static final int SUBID_ORGANIC = 3;
-    public static final int SUBID_MULTI = 4;
-    public static final int SUBID_SUPPLEMENTS = 5;
+   public static final int SUBID_HERBAL = 1;
+    public static final int SUBID_MINERALS = 2;
+    public static final int SUBID_VITIMIN = 3;
+    public static final int SUBID_ORGANIC = 4;
+    public static final int SUBID_MULTI = 5;
+    public static final int SUBID_SUPPLEMENTS = 6;
 
     // keys of result info(screen positions and images)
     public static final int KEY_CHILDREN = 0;
@@ -62,6 +62,7 @@ public class CommonData {
     public static final int KEY_SUPPLEMENTS = 5;
 
     public static final String PARAM_KEY = "param_key";
+    public static final String PARAM_SUBID = "param_subid";
 
     // result screen arranger
     public static ResultArranger arranger = null;

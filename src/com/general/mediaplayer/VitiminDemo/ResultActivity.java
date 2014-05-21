@@ -51,6 +51,9 @@ public class ResultActivity extends BaseFormulaActivity {
         }
         */
 
+        Intent intent = getIntent();
+        Integer key = intent.getIntExtra(CommonData.PARAM_SUBID, CommonData.SUBID_HERBAL);
+        SendSectionNum(key);
 
         // rearrange children
         ResolutionSet._instance.iterateChild(findViewById(R.id.layout_result));
