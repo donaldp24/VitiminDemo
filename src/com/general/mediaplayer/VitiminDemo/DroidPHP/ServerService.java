@@ -16,7 +16,7 @@ import android.app.Service;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.IBinder;
-import com.general.mediaplayer.TwoInOne.*;
+import com.general.mediaplayer.VitiminDemo.*;
 
 public class ServerService extends Service {
 	public static final String EXTRA_PORT = "EXTRA_PORT";

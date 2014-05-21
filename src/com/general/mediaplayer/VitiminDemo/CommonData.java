@@ -19,8 +19,8 @@ public class CommonData {
     public static final int ACTION_BACKTOMAIN = 1;
     public static final int ACTION_SLEEP = 2;
 
-    public static final int ACTION_NOTAP = ACTION_SLEEP;
-    public static final int TIME_ACTION_NOTAP = 30; //60 seconds
+    public static final int ACTION_NOTAP = ACTION_BACKTOMAIN;
+    public static final int TIME_ACTION_NOTAP = 60; //60 seconds
 
     // playing video time from no interaction (in seconds)
     public static final int VIDEO_LOOPING = 1;

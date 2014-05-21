@@ -14,6 +14,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
+import com.general.mediaplayer.Utils.CsrActivity;
 import com.general.mediaplayer.VitiminDemo.DroidPHP.ServerService;
 import com.general.mediaplayer.VitiminDemo.DroidPHP.ServerUtils;
 import hidusb.UsbManager;
@@ -25,7 +26,7 @@ import java.io.InputStream;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
-public class ScanMediaActivity extends BaseActivity implements ViewPager.OnPageChangeListener {
+public class ScanMediaActivity extends CsrActivity implements ViewPager.OnPageChangeListener {
 
     private ViewPager mCardsViewPager;
     private CardsPagerAdapter mCardsPagerAdapter;
@@ -272,7 +273,7 @@ public class ScanMediaActivity extends BaseActivity implements ViewPager.OnPageC
                 try {
                     if (isServerRunning()) {
                         msg = "Server successfully Started";
-                        _appPrefs.setServerStarted(true);
+                       // _appPrefs.setServerStarted(true);
                     }
                 } catch (IOException e) {
 
@@ -286,7 +287,7 @@ public class ScanMediaActivity extends BaseActivity implements ViewPager.OnPageC
                         prefs.getString("k_server_port", "8080"));
 
                 startService(i);
-                _appPrefs.setServerStarted(true);
+                //_appPrefs.setServerStarted(true);
             }
         });
     }

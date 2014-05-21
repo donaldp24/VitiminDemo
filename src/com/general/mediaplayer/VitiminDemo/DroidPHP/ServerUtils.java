@@ -118,13 +118,12 @@ public final class ServerUtils {
 		restoreConfiguration("mysql.ini");
 
         copyCoupon("index.html");
-        copyCoupon("coupon.png");
+        copyCoupon("coupon.jpg");
 
 		setPermission();
 
 		String[] serverCmd = { getAppDirectory() + "/lighttpd", "-f",
 				getHttpDirectory() + "/conf/lighttpd.conf", "-D"
-
 		};
 		String[] mySQLCmd = { getAppDirectory() + "/mysqld",
 				"--defaults-file=" + getHttpDirectory() + "/conf/mysql.ini",
@@ -252,7 +251,6 @@ public final class ServerUtils {
 						"UTF-8");
 			} catch (Exception e) {
 				Log.e(TAG, "Unable to copy " + fileName + " from assets", e);
-
 			}
 		}
 
